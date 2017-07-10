@@ -15,7 +15,7 @@
 <h5><u>How to use</u></h5>
 <ol>
 <li>Clone the repo / Download as zip and extract on your computer in an empty folder (best).</li>
-<li>Your folder should look like this: ![Folder] (www.mediafire.com/view/q9oy929etibaccq/Folder.jpg)</li>
+<li>Your folder should look like this: ![Folder](http://mediafire.com/view/q9oy929etibaccq/Folder.jpg)</li>
 <li>Click on "UpdateFileList.bat" and it will create a new file called "FileList.txt".</li>
 <li>Now execute the software and it will start to unpack everything, once done you will have a message box (all done) displayed by windows.</li>
 <li>For future update simply re-execute "UpdateFileList" the software will only unpacked compressed files.</li>
