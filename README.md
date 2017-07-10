@@ -21,4 +21,4 @@
 <li>For future update simply re-execute "UpdateFileList" the software will only unpacked compressed files.</li>
 </ol>
 
-<b>I am the original author and this is the official repo, any other copies would be fake, if you bought this software you got scammed.</b>
+<b>I am the original author and this is the official repo, any other copies would be fake (virus), if you bought this software you got scammed.</b>
