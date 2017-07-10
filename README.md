@@ -15,6 +15,7 @@
 <h5><u>How to use</u></h5>
 <ol>
 <li>Clone the repo / Download as zip and extract on your computer in an empty folder (best).</li>
+<li>Prepare your phone (Android) go in your game directory and copy the "files" folder where the software is.</li>
 <li>Your folder should look like this: http://www.mediafire.com/convkey/73c0/q9oy929etibaccqzg.jpg</li>
 <li>Click on "UpdateFileList.bat" and it will create a new file called "FileList.txt".</li>
 <li>Now execute the software and it will start to unpack everything, once done you will have a message box (all done) displayed by windows.</li>
