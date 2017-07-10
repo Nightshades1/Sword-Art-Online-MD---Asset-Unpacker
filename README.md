@@ -19,5 +19,4 @@
 <li>Click on "UpdateFileList.bat" and it will create a new file called "FileList.txt".</li>
 <li>Now execute the software and it will start to unpack everything, once done you will have a message box (all done) displayed by windows.</li>
 <li>For future update simply re-execute "UpdateFileList" the software will only unpacked compressed files.</li>
-
 <bl>I am the original author and this is the official repo, any other copies would be fake, if you bought this software you got scammed.</bl>
