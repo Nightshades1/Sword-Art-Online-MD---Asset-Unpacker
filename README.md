@@ -9,6 +9,7 @@
 <li>.plist</li>
 <li>.ssbp</li>
 <li>.csb</li>
+<li>.bin</li>
 </ul>
 <h4><u>What about the audio ?</u></h4>
 <bl>The audio is a simple .ogg using VORBIS you can either use VLC media player or convert it to another format.</bl>
