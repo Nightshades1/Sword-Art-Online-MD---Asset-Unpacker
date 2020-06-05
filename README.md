@@ -12,6 +12,7 @@ for files added/removed and output it in a log.
 ### Quick Install
 Get the binaries there:https://github.com/Nightshades1/Sword-Art-Online-MD---Asset-Unpacker/releases
 1. Copy "project.manifest" to "files\download" You obtain it from the game (use emulator/rooted device).
+1. Do that every new version of the manifest.
 
 ### How To Use
 1. Download All Assets
