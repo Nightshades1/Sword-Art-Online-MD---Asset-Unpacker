@@ -1,5 +1,5 @@
 # The Official Sword Art Online Memory Defrag Downloader And Asset Unpacker
-# The game has shut down it's services 😢 however you can still use the software if you still have a manifest file, and if the files are still uploaded on the CDN of the developer
+# The game has shut down it's services 😢 and their CDN
 
 ## Features:
 + Works with all version/region of the game.
