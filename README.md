@@ -1,5 +1,11 @@
 # The Official Sword Art Online Memory Defrag Downloader And Asset Unpacker
-# The game has shut down it's services 😢 and their CDN
+# The game has shut down it's services 😢 and their CDN 🤯 But I had saved the assets from an old version 😊 see bellow 👇
+
+# 👨‍🔬 For Historical Purpose, Reasearcher And The Fan Club 🔍
+I have uploaded the complete CDN "Assets" as of version 1.42.93 which has 744 .zip and i included the project.manifest too<br>
+I recommend using 7zip on windows, right click "files.zip" and "Extract Here", select all the .zip and "Extract Here" too,<br>
+you will have a total of 38,531 files (in their native format CCZ Encrypted for most of them), you can still use the software if you want to decrypt all CCZ assets after you decompressed all the .zip<br><br>
+Download:🌐https://mega.nz/file/c7wCUSJS#JL3t4dTU4Vu73ZxDc-gJfzX0L8zMS_-qPHyJYfN0_bk
 
 ## Features:
 + Works with all version/region of the game.
